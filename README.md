@@ -3,16 +3,21 @@
 
 ![WHF Catdog](images/WHF-Catdog-64x64.png)
 
-My humble effort to try and produce icons for SerenityOS. 
-All icons are made using SerenityOS's own Pixel Paint application.
+Image above is my rendition of SerenityOS's catdog in 
+pixelart (I tried :^) )
+
+This repo is my humble effort to try and produce icons for SerenityOS. 
+All my icons are made using SerenityOS's own Pixel Paint 
+application (where possible).
 
 ### How to install
-* Copy the contents of `Base/res/icons/{16x16,32x32}` overwriting
-those of $SERENITY_DIR/Base/res/icons/{16x16,32x32}
-* Executing $SERENITY_DIR/Meta/serenity.sh run should create an image
-`_disk_image` for QEmu to load and run
+* Copy the contents of `Base/res/icon-themes/[Theme-Name]/
+{16x16,32x32}` overwriting those of 
+$SERENITY_DIR/Base/res/icons/{16x16,32x32}
+* Executing `$SERENITY_DIR/Meta/serenity.sh` run should create 
+an image `_disk_image` for QEmu to load and run
 * Source PixelPaint files are on `pp/` folder, inside the icon-
-theme name, i.e. *Songbyrrd*
+theme name, i.e. *Songbyrrd*, *BlueByrrd*, *Black-and-White*
 * It is recommended to try out these icons on a separate branch:
 ```sh
 $ git clone https://github.com/serenityos/serenity
@@ -33,6 +38,12 @@ easily generate the final icons by exporting it as .png files.
 A SerenityOS (custom) icon theme with flat, minimalist look and
 style. This is my initial attempt at Icon Theme creation as I have
 zero background/experience making them.
+
+## Bluebyrrd Icon Theme pack (work-in-progress)
+A blue color variant of Songbyrrd. Same description applies.
+
+## Black-and-White Icon Theme Pack
+@Xexxa's Icon Theme pack currently under PR for SerenityOS
 
 ## Compression
 You can further optimize disk usage by compressing .png files
