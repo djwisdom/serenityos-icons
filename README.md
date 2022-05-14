@@ -12,8 +12,27 @@ application (where possible).
 
 ### How to install
 * Copy contents of `Base/res/icon-themes/[Theme-Name]/{16x16,32x32}` 
-overwriting those of $SERENITY_DIR/Base/res/icons/{16x16,32x32}
-* Executing `$SERENITY_DIR/Meta/serenity.sh run` should create 
+overwriting those of $SERENITY_SOURCE_DIR/Base/res/icons/{16x16,32x32}
+
+```sh
+# ensure current dir is $SERENITY_SOURCE_DIR
+$ pwd
+
+# Initialization
+# Make a Default theme
+$ cp -r Base/res/icons/ Base/res/icon-themes/Default
+
+# enable Default theme always
+$ cp -r Base/res/icon-themes/Default/* Base/res/icons/
+
+# now use selected icon theme
+$ cp -r Base/res/icon-themes/Black-and-White/* Base/res/icons/
+
+# exec serenity.sh run
+$ Meta/serenity.sh run
+
+```
+* Executing `$SERENITY_SOURCE_DIR/Meta/serenity.sh run` should create 
 an image `_disk_image` for QEmu to load and run
 * Source PixelPaint files are on `pp/` folder, inside the icon-
 theme name, i.e. *Songbyrrd*, *BlueByrrd*
