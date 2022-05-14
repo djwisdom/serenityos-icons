@@ -2,9 +2,10 @@
 ### Unofficial SerenityOS Icon Themes 
 
 ![WHF Catdog](images/WHF-Catdog-64x64.png)
+![WHF Ladybug](images/WHF-Ladybug.png)
 
 Image above is my rendition of SerenityOS's catdog in 
-pixelart (I tried :^) )
+pixelart and of Ladybug (I tried :^) )
 
 This repo is my humble effort to try and produce icons for SerenityOS. 
 All my icons are made using SerenityOS's own Pixel Paint 
