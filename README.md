@@ -12,8 +12,8 @@ All my icons are made using SerenityOS's own Pixel Paint
 application (where possible).
 
 ### How to install
-* Copy contents of `Base/res/icon-themes/[Theme-Name]/{16x16,32x32}` 
-overwriting those of $SERENITY_SOURCE_DIR/Base/res/icons/{16x16,32x32}
+* Copy recursively the contents of `Base/res/icon-themes/[Theme-Name]
+/` overwriting those of $SERENITY_SOURCE_DIR/Base/res/icons/
 
 ```sh
 # ensure current dir is $SERENITY_SOURCE_DIR
@@ -50,8 +50,8 @@ over the icons into serenity as mentioned above.
 into the forseeable future. :^)
 
 ## Note:
-I may only update the PixelPaint source files since one can
-easily generate the final icons by exporting it as .png files.
+I may or may not update the PixelPaint files. This repo exists for
+the .PNG files and those files are mostly guaranteed to be updated. 
 
 ## Songbyrrd Icon Theme pack (work-in-progress)
 A SerenityOS (custom) icon theme with flat, minimalist look and
