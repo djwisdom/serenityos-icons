@@ -12,8 +12,8 @@ All my icons are made using SerenityOS's own Pixel Paint
 application (where possible).
 
 ### How to install
-* Copy recursively the contents of `Base/res/icon-themes/[Theme-Name]
-/` overwriting those of $SERENITY_SOURCE_DIR/Base/res/icons/
+* Copy recursively the contents of `Base/res/icon-themes/[Theme-Name]/`
+ overwriting those of $SERENITY_SOURCE_DIR/Base/res/icons/
 
 ```sh
 # ensure current dir is $SERENITY_SOURCE_DIR
@@ -63,6 +63,10 @@ A blue color variant of Songbyrrd. Same description applies.
 
 ## Black-and-White Icon Theme Pack
 @Xexxa's Icon Theme pack currently under PR for SerenityOS
+
+## Chillychilly Icon Theme Pack
+A variation of Black-and-White Icon Theme Pack designed primarily for
+Chillychilly Theme but may also work for other non-dark themes.
 
 ## Compression
 You can further optimize disk usage by compressing .png files
