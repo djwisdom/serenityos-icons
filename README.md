@@ -68,6 +68,10 @@ A blue color variant of Songbyrrd. Same description applies.
 A variation of Black-and-White Icon Theme Pack designed primarily for
 Chillychilly Theme but may also work for other non-dark themes.
 
+## Durrque Icon Theme Pack
+Icon Pack for Durrque Theme and specifically designed for it.
+It maybe possible to use this in combination with other dark themes.
+
 ## Compression
 You can further optimize disk usage by compressing .png files
 using `optipng -nb -nc -np [filename]`
