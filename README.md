@@ -4,9 +4,6 @@ SerenityOS now has an app on Ports folder. We can use that for convenience.
 
 ## Unofficial SerenityOS Icon Themes 
 
-Image above is my rendition of SerenityOS's catdog in 
-pixelart and of Ladybug (I tried :^) )
-
 This repo is my humble effort to try and produce icons for SerenityOS. 
 All my icons are made using SerenityOS's own Pixel Paint 
 application (where possible).
