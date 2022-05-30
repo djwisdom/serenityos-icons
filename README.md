@@ -1,8 +1,8 @@
 # serenityos-icons
-### Unofficial SerenityOS Icon Themes 
+## Checkout Ports/serenity-theming
+SerenityOS now has an app on Ports folder. We can use that for convenience.
 
-![WHF Catdog](images/WHF-Catdog-64x64.png)
-![WHF Ladybug](images/WHF-Ladybug.png)
+## Unofficial SerenityOS Icon Themes 
 
 Image above is my rendition of SerenityOS's catdog in 
 pixelart and of Ladybug (I tried :^) )
