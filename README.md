@@ -2,9 +2,9 @@
 ## Checkout Ports/serenity-theming
 SerenityOS now has an app on Ports folder. We can use that for convenience.
 
-## Unofficial SerenityOS Icon Themes 
+## Unofficial SerenityOS Icon Themes
 
-This repo is my humble effort to try and produce icons for SerenityOS. 
+This repo is my humble effort to try and produce icons for SerenityOS.
 All my icons are made using SerenityOS's own Pixel Paint 
 application (where possible).
 
@@ -47,8 +47,8 @@ over the icons into serenity as mentioned above.
 into the forseeable future. :^)
 
 ## Note:
-I may or may not update the PixelPaint files. This repo exists for
-the .PNG files and those files are mostly guaranteed to be updated. 
+I may optionally update the PixelPaint files. This repo exists for
+the .PNG files and those files are mostly guaranteed to be updated.
 
 ## Songbyrrd Icon Theme pack (work-in-progress)
 A SerenityOS (custom) icon theme with flat, minimalist look and
@@ -60,14 +60,17 @@ A blue color variant of Songbyrrd. Same description applies.
 
 ## Black-and-White Icon Theme Pack
 @Xexxa's Icon Theme pack currently under PR for SerenityOS
+Update: Theming repo hosted
 
 ## Chillychilly Icon Theme Pack
 A variation of Black-and-White Icon Theme Pack designed primarily for
 Chillychilly Theme but may also work for other non-dark themes.
+Update: Theming repo hosted
 
 ## Durrque Icon Theme Pack
 Icon Pack for Durrque Theme and specifically designed for it.
 It maybe possible to use this in combination with other dark themes.
+Update: Theming repo hosted
 
 ## Compression
 You can further optimize disk usage by compressing .png files
