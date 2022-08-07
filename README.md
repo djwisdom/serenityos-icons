@@ -1,6 +1,6 @@
 # serenityos-icons
 ## Checkout Ports/serenity-theming
-SerenityOS now has an app on Ports folder. We can use that for convenience.
+SerenityOS now has an app on Ports folder named `serenity-theming`. It is highly recommended since it's always kept up-to-date and will always get the latest commit.
 
 ## Unofficial SerenityOS Icon Themes
 
@@ -9,6 +9,8 @@ All my icons are made using SerenityOS's own Pixel Paint
 application (where possible).
 
 ### How to install
+* Officially recommended: `Ports/serenity-theming/package.sh`
+
 * Copy recursively the contents of `Base/res/icon-themes/[Theme-Name]/`
  overwriting those of $SERENITY_SOURCE_DIR/Base/res/icons/
 
